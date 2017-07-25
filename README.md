@@ -3,6 +3,6 @@
 Sallys changes
 more changes for sally
 harrys changes
-more chenges for harry
+more changes for harry
 
 added Something
